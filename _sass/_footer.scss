@@ -1,0 +1,29 @@
+.footer {
+  background: white;
+  color: $brand-color;
+  min-height: 56px;
+  line-height: 45px;
+  width: 100vw;
+  border-top: 1px solid darkgray;
+
+  a {
+    color: $brand-color;
+    text-decoration: none;
+  }
+
+  .menu-link {
+    padding: 5px;
+  }
+  .menu-link:first-child {
+    padding-left: 16px;
+  }
+}
+
+.footer-description {
+  display: block;
+  line-height: normal;
+  margin-bottom: 1rem;
+  padding: 0 16px;
+  color: #9a9a9a;
+  font-size: 0.8rem;
+}

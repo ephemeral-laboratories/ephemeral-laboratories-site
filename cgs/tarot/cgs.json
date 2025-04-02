@@ -2,7 +2,7 @@
    "allCardsUrl": "https://ephemeral.technology/cgs/tarot/AllCards.json",
    "allSetsUrl": "https://ephemeral.technology/cgs/tarot/AllSets.json",
    "autoUpdateUrl": "https://ephemeral.technology/cgs/tarot/cgs.json",
-   "bannerImageUrl": "https://placehold.co/1024x500",
+   "bannerImageUrl": "https://ephemeral.technology/cgs/tarot/Banner.jpg",
    "cardBackFaceImageUrls": [
      {
        "id": "BACK",

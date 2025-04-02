@@ -1,0 +1,85 @@
+{
+   "allCardsUrl": "https://ephemeral.technology/cgs/tarot/AllCards.json",
+   "allSetsUrl": "https://ephemeral.technology/cgs/tarot/AllSets.json",
+   "autoUpdateUrl": "https://ephemeral.technology/cgs/tarot/cgs.json",
+   "bannerImageUrl": "https://placehold.co/1024x500",
+   "cardBackFaceImageUrls": [
+     {
+       "id": "BACK",
+       "url": "https://ephemeral.technology/cgs/tarot/backs/BACK.png"
+     }
+   ],
+   "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/backs/BACK.png",
+   "cardImageUrl": "https://ephemeral.technology/cgs/tarot/sets/{cardSet}/{cardId}.{cardImageFileType}",
+   "cardProperties": [
+     {
+       "name": "arcana",
+       "display": "Arcana",
+       "type": "stringEnum"
+     },
+     {
+       "name": "rank",
+       "display": "Rank",
+       "type": "stringEnum"
+     },
+     {
+       "name": "suit",
+       "display": "Suit",
+       "type": "stringEnum"
+     },
+   ],
+   "cgsGamesLink": "https://ephemeral.technology/cgs/tarot",
+   "deckUrls": [
+     {
+       "name": "French Tarot Deck",
+       "url": "https://ephemeral.technology/cgs/tarot/decks/Standard%20French%20Tarot.txt"
+     }
+   ],
+   "enums": [
+     {
+       "property": "arcana",
+       "values": {
+         "major": "Major",
+         "minor": "Minor"
+       }
+     },
+     {
+       "property": "rank",
+       "values": {
+         "1": "Ace",
+         "2": "2",
+         "3": "3",
+         "4": "4",
+         "5": "5",
+         "6": "6",
+         "7": "7",
+         "8": "8",
+         "9": "9",
+         "10": "10",
+         "11": "Jack",
+         "12": "Cavalier",
+         "13": "Queen",
+         "14": "King"
+       }
+     },
+     {
+       "property": "suit",
+       "values": {
+         "clubs": "Clubs",
+         "diamonds": "Diamonds",
+         "hearts": "Hearts",
+         "spades": "Spades",
+         "trumps": "Trumps"
+       }
+     }
+   ],
+   "gamePlayDeckName": "Deck",
+   "gameStartDecks": [
+     {
+       "name": "Standard Tarot Deck",
+       "url": "https://ephemeral.technology/cgs/tarot/decks/Standard%20French%20Tarot.txt"
+     }
+   ],
+   "name": "French Tarot Cards",
+   "rulesUrl": "https://www.pagat.com/tarot/frtarot.html"
+}

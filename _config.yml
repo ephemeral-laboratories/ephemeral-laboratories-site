@@ -20,5 +20,9 @@ description: Web site for Ephemeral Laboratories
 copyright: "Copyright ©️ 2024 H Ephemeral Laboratories"
 author: Hakanai
 
+collections:
+  apps:
+    output: true
+
 twitter:
   username: "@HakanaiVR"

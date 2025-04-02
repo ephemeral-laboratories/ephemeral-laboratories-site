@@ -1,0 +1,16 @@
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -0.5rem;
+}
+.gallery-item {
+  width: calc(50% - 1rem); /* two columns */
+  margin: 0.5rem;
+  box-sizing: border-box;
+}
+.gallery-item img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

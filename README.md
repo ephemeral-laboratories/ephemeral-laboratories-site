@@ -1,4 +1,4 @@
-# Building site for local test test
+# Building site for local test
 
 ```shell
 $ jekyll build
@@ -10,6 +10,6 @@ $ jekyll build
 $ jekyll server
 ```
 
-# hakan-ai-site
+# Live site
 
-Live site: https://ephemeral.technology/
+https://ephemeral.technology/

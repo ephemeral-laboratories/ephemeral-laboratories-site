@@ -1,5 +1,5 @@
 {
-  "$id": "https://cardgamesim.finoldigital.com/schema/cgs.json",
+  "$id": "https://ephemeral.technology/cgs/schemas/cgs/cgs.json",
   "$schema": "http://json-schema.org/draft/2020-12/schema",
   "title": "CGS Card Game Specification",
   "description": "Card Game Simulator (CGS) Card Game Specification",

@@ -1,5 +1,5 @@
 {
-  "$id": "https://cardgamesim.finoldigital.com/schema/AllSets.json",
+  "$id": "https://ephemeral.technology/cgs/schemas/cgs/AllSets.json",
   "$schema": "http://json-schema.org/draft/2020-12/schema",
   "title": "CGS Card Game Specification - Sets",
   "description": "Lists out Set information. You should have at least 1 of either AllCards.json or AllSets.json. You may have both, and if you have both, CGS will combine the data from both to use in-game.",
@@ -17,7 +17,7 @@
         "type": "string"
       },
       "cards": {
-        "$ref": "AllCards.json#/"
+        "$ref": "AllCards.json"
       },
       "cardsUrl": {
         "description": "From this url, CGS downloads the json that contains the Card data for the Set. If CGS is able to successfully download this file, it will save it to sets/*Set:Code*.json.",

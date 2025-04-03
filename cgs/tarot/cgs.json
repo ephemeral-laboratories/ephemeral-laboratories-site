@@ -7,11 +7,15 @@
   "bannerImageUrl": "https://ephemeral.technology/cgs/tarot/Banner.jpg",
   "cardBackFaceImageUrls": [
     {
-      "id": "BACK",
-      "url": "https://ephemeral.technology/cgs/tarot/backs/BACK.png"
+      "id": "back2",
+      "url": "https://ephemeral.technology/cgs/tarot/backs/back-magenta.png"
+    },
+    {
+      "id": "back3",
+      "url": "https://ephemeral.technology/cgs/tarot/backs/back-lime.png"
     }
   ],
-  "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/backs/BACK.png",
+  "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/backs/back.png",
   "cardImageUrl": "https://ephemeral.technology/cgs/tarot/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardProperties": [
     {

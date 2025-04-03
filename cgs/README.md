@@ -27,4 +27,4 @@ From an Administrator PowerShell terminal:
 ## Useful URLs
 
 * Auto-update URL: <https://ephemeral.technology/cgs/tarot/cgs.json>
-* CGS games link: https://cgs.games/hakanai/french_tarot_cards
+* CGS games link: <https://cgs.games/hakanai/french_tarot>

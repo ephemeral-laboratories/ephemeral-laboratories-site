@@ -1,5 +1,5 @@
 {
-  "name": "French Tarot Cards",
+  "name": "French Tarot",
   "allCardsUrl": "https://ephemeral.technology/cgs/tarot/AllCards.json",
   "allSetsUrl": "https://ephemeral.technology/cgs/tarot/AllSets.json",
   "allDecksUrl": "https://ephemeral.technology/cgs/tarot/AllDecks.json",
@@ -43,7 +43,7 @@
     "x": 2.75,
     "y": 4.75
   },
-  "cgsGamesLink": "https://ephemeral.technology/cgs/tarot",
+  "cgsGamesLink": "https://cgs.games/hakanai/french_tarot",
   "enums": [
     {
       "property": "arcana",

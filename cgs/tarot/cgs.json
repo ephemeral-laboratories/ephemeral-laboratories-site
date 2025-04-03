@@ -2,6 +2,7 @@
   "name": "French Tarot Cards",
   "allCardsUrl": "https://ephemeral.technology/cgs/tarot/AllCards.json",
   "allSetsUrl": "https://ephemeral.technology/cgs/tarot/AllSets.json",
+  "allDecksUrl": "https://ephemeral.technology/cgs/tarot/AllDecks.json",
   "autoUpdateUrl": "https://ephemeral.technology/cgs/tarot/cgs.json",
   "bannerImageUrl": "https://ephemeral.technology/cgs/tarot/Banner.jpg",
   "cardBackFaceImageUrls": [
@@ -19,27 +20,21 @@
       "type": "stringEnum"
     },
     {
-      "name": "rank",
-      "display": "Rank",
+      "name": "suit",
+      "display": "Suit",
       "type": "stringEnum"
     },
     {
-      "name": "suit",
-      "display": "Suit",
-     "type": "stringEnum"
-     }
+      "name": "rank",
+      "display": "Rank",
+      "type": "stringEnum"
+    }
   ],
   "cardSize": {
     "x": 2.75,
     "y": 4.75
   },
   "cgsGamesLink": "https://ephemeral.technology/cgs/tarot",
-  "deckUrls": [
-    {
-      "name": "French Tarot Deck",
-      "url": "https://ephemeral.technology/cgs/tarot/decks/Standard%20French%20Tarot.txt"
-    }
-  ],
   "enums": [
     {
       "property": "arcana",

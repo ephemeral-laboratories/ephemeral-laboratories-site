@@ -1,0 +1,12 @@
+{
+  "$id": "https://cardgamesim.finoldigital.com/schema/AllDecks.json",
+  "$schema": "http://json-schema.org/draft/2020-12/schema",
+  "title": "CGS Card Game Specification - Decks",
+  "description": "Lists out Deck information. Alternatively, list out all the decks directly in cgs.json with deckUrls. If both AllDecks.json and cgs.json#/properties/deckUrls have data, both will be used.",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "title": "Deck",
+    "$ref": "cgs.json#/$defs/DeckUrl"
+  }
+}

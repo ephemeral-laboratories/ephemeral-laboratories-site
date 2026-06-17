@@ -19,22 +19,22 @@
   "cardImageUrl": "https://ephemeral.technology/cgs/tarot/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardProperties": [
     {
-      "name": "arcana",
-      "display": "Arcana",
+      "name": "kind",
+      "display": "Kind",
       "type": "stringEnum"
-    },
+    }.
     {
       "name": "suit",
       "display": "Suit",
       "type": "stringEnum"
     },
     {
-      "name": "minor-rank",
+      "name": "suited-rank",
       "display": "Rank",
       "type": "stringEnum"
     },
     {
-      "name": "major-rank",
+      "name": "trump-rank",
       "display": "Rank",
       "type": "stringEnum"
     }
@@ -46,10 +46,11 @@
   "cgsGamesLink": "https://cgs.games/hakanai/french_tarot",
   "enums": [
     {
-      "property": "arcana",
+      "property": "kind",
       "values": {
-        "major": "Major",
-        "minor": "Minor"
+        "suited": "Suited",
+        "trump": "Trump",
+        "special": "Special"
       }
     },
     {
@@ -59,11 +60,10 @@
         "diamonds": "Diamonds",
         "hearts": "Hearts",
         "spades": "Spades",
-        "trumps": "Trumps"
       }
     },
     {
-      "property": "minor-rank",
+      "property": "suited-rank",
       "values": {
         "1": "Ace",
         "2": "2",
@@ -76,15 +76,14 @@
         "9": "9",
         "10": "10",
         "11": "Jack",
-        "12": "Cavalier",
+        "12": "Knight",
         "13": "Queen",
         "14": "King"
       }
     },
     {
-      "property": "major-rank",
+      "property": "trump-rank",
       "values": {
-        "0": "Fool",
         "1": "1",
         "2": "2",
         "3": "3",

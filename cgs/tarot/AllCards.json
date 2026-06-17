@@ -59,27 +59,27 @@
   {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "Queen of Spades",  "id": "spades-dame",     "kind": "suited", "suit": "spades", "suited-rank": "13"},
   {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "King of Spades",   "id": "spades-roi",      "kind": "suited", "suit": "spades", "suited-rank": "14"},
 
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "1 of Trumps",  "id": "trumps-1",  "kind": "trump", "trump-rank": "1"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "2 of Trumps",  "id": "trumps-2",  "kind": "trump", "trump-rank": "2"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "3 of Trumps",  "id": "trumps-3",  "kind": "trump", "trump-rank": "3"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "4 of Trumps",  "id": "trumps-4",  "kind": "trump", "trump-rank": "4"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "5 of Trumps",  "id": "trumps-5",  "kind": "trump", "trump-rank": "5"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "6 of Trumps",  "id": "trumps-6",  "kind": "trump", "trump-rank": "6"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "7 of Trumps",  "id": "trumps-7",  "kind": "trump", "trump-rank": "7"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "8 of Trumps",  "id": "trumps-8",  "kind": "trump", "trump-rank": "8"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "9 of Trumps",  "id": "trumps-9",  "kind": "trump", "trump-rank": "9"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "10 of Trumps", "id": "trumps-10", "kind": "trump", "trump-rank": "10"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "11 of Trumps", "id": "trumps-11", "kind": "trump", "trump-rank": "11"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "12 of Trumps", "id": "trumps-12", "kind": "trump", "trump-rank": "12"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "13 of Trumps", "id": "trumps-13", "kind": "trump", "trump-rank": "13"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "14 of Trumps", "id": "trumps-14", "kind": "trump", "trump-rank": "14"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "15 of Trumps", "id": "trumps-15", "kind": "trump", "trump-rank": "15"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "16 of Trumps", "id": "trumps-16", "kind": "trump", "trump-rank": "16"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "17 of Trumps", "id": "trumps-17", "kind": "trump", "trump-rank": "17"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "18 of Trumps", "id": "trumps-18", "kind": "trump", "trump-rank": "18"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "19 of Trumps", "id": "trumps-19", "kind": "trump", "trump-rank": "19"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "20 of Trumps", "id": "trumps-20", "kind": "trump", "trump-rank": "20"}
-  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "21 of Trumps", "id": "trumps-21", "kind": "trump", "trump-rank": "21"}
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "1 of Trumps",  "id": "trumps-1",  "kind": "trump", "trump-rank": "1"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "2 of Trumps",  "id": "trumps-2",  "kind": "trump", "trump-rank": "2"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "3 of Trumps",  "id": "trumps-3",  "kind": "trump", "trump-rank": "3"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "4 of Trumps",  "id": "trumps-4",  "kind": "trump", "trump-rank": "4"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "5 of Trumps",  "id": "trumps-5",  "kind": "trump", "trump-rank": "5"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "6 of Trumps",  "id": "trumps-6",  "kind": "trump", "trump-rank": "6"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "7 of Trumps",  "id": "trumps-7",  "kind": "trump", "trump-rank": "7"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "8 of Trumps",  "id": "trumps-8",  "kind": "trump", "trump-rank": "8"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "9 of Trumps",  "id": "trumps-9",  "kind": "trump", "trump-rank": "9"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "10 of Trumps", "id": "trumps-10", "kind": "trump", "trump-rank": "10"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "11 of Trumps", "id": "trumps-11", "kind": "trump", "trump-rank": "11"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "12 of Trumps", "id": "trumps-12", "kind": "trump", "trump-rank": "12"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "13 of Trumps", "id": "trumps-13", "kind": "trump", "trump-rank": "13"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "14 of Trumps", "id": "trumps-14", "kind": "trump", "trump-rank": "14"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "15 of Trumps", "id": "trumps-15", "kind": "trump", "trump-rank": "15"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "16 of Trumps", "id": "trumps-16", "kind": "trump", "trump-rank": "16"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "17 of Trumps", "id": "trumps-17", "kind": "trump", "trump-rank": "17"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "18 of Trumps", "id": "trumps-18", "kind": "trump", "trump-rank": "18"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "19 of Trumps", "id": "trumps-19", "kind": "trump", "trump-rank": "19"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "20 of Trumps", "id": "trumps-20", "kind": "trump", "trump-rank": "20"},
+  {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "21 of Trumps", "id": "trumps-21", "kind": "trump", "trump-rank": "21"},
 
   {"set": "STD_FR", "backs": ["", "back2", "back3"], "name": "The Fool", "id": "trumps-0", "kind": "special"}
 ]

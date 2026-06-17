@@ -22,7 +22,7 @@
       "name": "kind",
       "display": "Kind",
       "type": "stringEnum"
-    }.
+    },
     {
       "name": "suit",
       "display": "Suit",

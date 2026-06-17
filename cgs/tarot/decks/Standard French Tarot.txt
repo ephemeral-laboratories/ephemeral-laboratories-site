@@ -43,10 +43,10 @@
 1 Jack of Diamonds
 1 Jack of Hearts
 1 Jack of Spades
-1 Cavalier of Clubs
-1 Cavalier of Diamonds
-1 Cavalier of Hearts
-1 Cavalier of Spades
+1 Knight of Clubs
+1 Knight of Diamonds
+1 Knight of Hearts
+1 Knight of Spades
 1 Queen of Clubs
 1 Queen of Diamonds
 1 Queen of Hearts
@@ -78,4 +78,4 @@
 1 20 of Trumps
 1 21 of Trumps
 
-1 The Fool
+1 Fool

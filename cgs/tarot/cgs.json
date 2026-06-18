@@ -5,18 +5,24 @@
   "allDecksUrl": "https://ephemeral.technology/cgs/tarot/AllDecks.json",
   "autoUpdateUrl": "https://ephemeral.technology/cgs/tarot/cgs.json",
   "bannerImageUrl": "https://ephemeral.technology/cgs/tarot/Banner.jpg",
+
+  "cardImageUrl": "https://ephemeral.technology/cgs/tarot/{cardSet}/fronts/{cardId}.{cardImageFileType}",
+  "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/blue.{cardImageFileType}",
   "cardBackFaceImageUrls": [
     {
-      "id": "back2",
-      "url": "https://ephemeral.technology/cgs/tarot/backs/back-magenta.png"
+      "id": "blue",
+      "url": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/blue.png"
     },
     {
-      "id": "back3",
-      "url": "https://ephemeral.technology/cgs/tarot/backs/back-lime.png"
+      "id": "lime",
+      "url": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/lime.png"
+    },
+    {
+      "id": "magenta",
+      "url": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/magenta.png"
     }
   ],
-  "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/backs/back.png",
-  "cardImageUrl": "https://ephemeral.technology/cgs/tarot/sets/{cardSet}/{cardId}.{cardImageFileType}",
+
   "cardProperties": [
     {
       "name": "kind",
@@ -59,7 +65,7 @@
         "clubs": "Clubs",
         "diamonds": "Diamonds",
         "hearts": "Hearts",
-        "spades": "Spades",
+        "spades": "Spades"
       }
     },
     {
@@ -111,8 +117,8 @@
   "gamePlayDeckName": "Deck",
   "gameStartDecks": [
     {
-      "name": "Standard Tarot Deck",
-      "url": "https://ephemeral.technology/cgs/tarot/decks/Standard%20French%20Tarot.txt"
+      "name": "Tarot Nouveau Deck (blue backs)",
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/blue.txt"
     }
   ],
   "rulesUrl": "https://www.pagat.com/tarot/frtarot.html"

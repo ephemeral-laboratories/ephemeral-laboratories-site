@@ -1,14 +1,14 @@
 [
   {
-    "name": "French Tarot Deck",
-    "url": "https://ephemeral.technology/cgs/tarot/decks/Standard%20French%20Tarot.txt"
+    "name": "Tarot Nouveau Deck (blue backs)",
+    "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/blue.txt"
   },
   {
-    "name": "French Tarot Deck (back 2)",
-    "url": "https://ephemeral.technology/cgs/tarot/decks/Standard%20French%20Tarot%20(back%202).txt"
+    "name": "Tarot Nouveau Deck (lime backs)",
+    "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/lime.txt"
   },
   {
-    "name": "French Tarot Deck (back 3)",
-    "url": "https://ephemeral.technology/cgs/tarot/decks/Standard%20French%20Tarot%20(back%203).txt"
+    "name": "Tarot Nouveau Deck (magenta backs)",
+    "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/magenta.txt"
   }
 ]

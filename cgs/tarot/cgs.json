@@ -1,11 +1,34 @@
 {
   "name": "French Tarot",
-  "allCardsUrl": "https://ephemeral.technology/cgs/tarot/AllCards.json",
-  "allSetsUrl": "https://ephemeral.technology/cgs/tarot/AllSets.json",
-  "allDecksUrl": "https://ephemeral.technology/cgs/tarot/AllDecks.json",
   "autoUpdateUrl": "https://ephemeral.technology/cgs/tarot/cgs.json",
   "bannerImageUrl": "https://ephemeral.technology/cgs/tarot/Banner.jpg",
 
+  "allCardsUrl": "https://ephemeral.technology/cgs/tarot/AllCards.json",
+  "allSetsUrl": "https://ephemeral.technology/cgs/tarot/AllSets.json",
+
+  "gamePlayDeckName": "Deck",
+  "gameStartDecks": [
+    {
+      "name": "Tarot Nouveau Deck (blue backs)",
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/blue.txt"
+    }
+  ],
+  "deckUrls": [
+    {
+      "name": "Tarot Nouveau Deck (blue backs)",
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/blue.txt"
+    },
+    {
+      "name": "Tarot Nouveau Deck (lime backs)",
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/lime.txt"
+    },
+    {
+      "name": "Tarot Nouveau Deck (magenta backs)",
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/magenta.txt"
+    }
+  ],
+
+  "cardSize": {"x": 2.75, "y": 4.75},
   "cardImageUrl": "https://ephemeral.technology/cgs/tarot/{cardSet}/fronts/{cardId}.{cardImageFileType}",
   "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/backs/blue.png",
   "cardBackFaceImageUrls": [
@@ -45,11 +68,10 @@
       "type": "stringEnum"
     }
   ],
-  "cardSize": {
-    "x": 2.75,
-    "y": 4.75
-  },
+
   "cgsGamesLink": "https://cgs.games/hakanai/french_tarot",
+  "rulesUrl": "https://www.pagat.com/tarot/frtarot.html",
+
   "enums": [
     {
       "property": "kind",
@@ -113,13 +135,5 @@
         "21": "21"
       }
     }
-  ],
-  "gamePlayDeckName": "Deck",
-  "gameStartDecks": [
-    {
-      "name": "Tarot Nouveau Deck (blue backs)",
-      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/decks/blue.txt"
-    }
-  ],
-  "rulesUrl": "https://www.pagat.com/tarot/frtarot.html"
+  ]
 }

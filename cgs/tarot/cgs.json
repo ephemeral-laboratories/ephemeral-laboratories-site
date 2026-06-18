@@ -7,19 +7,19 @@
   "bannerImageUrl": "https://ephemeral.technology/cgs/tarot/Banner.jpg",
 
   "cardImageUrl": "https://ephemeral.technology/cgs/tarot/{cardSet}/fronts/{cardId}.{cardImageFileType}",
-  "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/blue.{cardImageFileType}",
+  "cardBackImageUrl": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/backs/blue.png",
   "cardBackFaceImageUrls": [
     {
       "id": "blue",
-      "url": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/blue.png"
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/backs/blue.png"
     },
     {
       "id": "lime",
-      "url": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/lime.png"
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/backs/lime.png"
     },
     {
       "id": "magenta",
-      "url": "https://ephemeral.technology/cgs/tarot/{cardSet}/backs/magenta.png"
+      "url": "https://ephemeral.technology/cgs/tarot/tarot-nouveau/backs/magenta.png"
     }
   ],
 
